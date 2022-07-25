@@ -1,3 +1,4 @@
+#change
 if [ "$PWD" == "$HOME" ]
 then 
   echo "Yes, You are!"
